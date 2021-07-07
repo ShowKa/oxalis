@@ -21,3 +21,5 @@ rebel.xml
 /outbound
 dev.make
 /dist
+
+.DS_Store
